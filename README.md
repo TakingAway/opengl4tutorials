@@ -1,5 +1,5 @@
 # OpenGL 4 for C#/.NET Tutorials
-I've begun creating tutorials based loosely on the [NeHe tutorials](http://pmg.org.ru/nehe/), which were (and still are) quite popular for learning OpenGL.  However, these tutorials use the more modern programmable pipeline, as well as the [opengl4csharp library](https://github.com/giawa/opengl4csharp).
+I've begun creating tutorials based loosely on the NeHe tutorials ([tutorials in russian for c++](http://pmg.org.ru/nehe/)), which were (and still are) quite popular for learning OpenGL.  However, these tutorials use the more modern programmable pipeline, as well as the [opengl4csharp library](https://github.com/giawa/opengl4csharp).
 
 These tutorials have been built on Windows PCs, but should work with minimal modifications on Linux and Mac OS X.
 
